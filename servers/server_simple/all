@@ -1,0 +1,2 @@
+cc try.h try.c server.c -Wall -o server -pthread
+cc try.h try.c client.c -Wall -o client
